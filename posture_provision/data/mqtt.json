@@ -1,0 +1,7 @@
+{
+  "host": "10.42.0.1",
+  "port": 8883,
+  "user": "esp32-posture-001",
+  "pass": "YOUR_PASSWORD",
+  "topic": "posture/data"
+}
